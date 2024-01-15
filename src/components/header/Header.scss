@@ -4,11 +4,11 @@ header {
 	top: 0;
 	left: 0;
 	width: 100%;
-	.navbar {
+	.navbar-list {
 		display: flex;
 		align-items: center;
 		gap: 30px;
-        padding: 26px 0;
+        padding: 10px 0 !important;
 		li {
 			a {
 				color: #fff;

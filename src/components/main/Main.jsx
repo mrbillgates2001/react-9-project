@@ -13,6 +13,7 @@ import {
 } from "../../../public/images";
 import "./Main.scss";
 import MainLeft from "./MainLeft";
+import Search from "../search/Search";
 
 const Main = () => {
 	const [news, setNews] = useState([]);
@@ -28,11 +29,12 @@ const Main = () => {
 		}
 	};
 
-	const handleClick = async (id) => {
+	const getPostDetails = async (id) => {
 		try {
-			const res = await axios.get(`http://localhost:3000/news/${id}`);
+			const res = await axios.get(`http://localhost:3000/news?id=${id}`);
 			const data = await res.data;
 			setPosts(data);
+			// console.log(data)
 		} catch (error) {
 			
 		}
@@ -44,21 +46,24 @@ const Main = () => {
 	}, []);
 
 	return (
-		<div className="container main-container">
+		<div>
+			<div className="container main-container">
 			<div className="main-left">
-				{news.map((news) => (
-					<MainLeft key={news.id} news={news} />
+			<Search/>
+				{posts.map((post) => (
+					<MainLeft key={post.id} post={post}/>
 				))}
 			</div>
-			<div onClick={handleClick} className="news-cards main-right">
-				{news.map((news) => (
-					<div key={news.id} className="news-card">
-						<img src={news.image} alt="" />
+			<div className="news-cards main-right">
+				{news.map((post) => (
+					<div key={post.id} onClick={() => getPostDetails(post.id)} className="news-card">
+						<img src={post.image} alt="" />
 						{/* <h5>{news.id}</h5> */}
-						<h6>{news.title}</h6>
+						<h6>{post.title}</h6>
 					</div>
 				))}
 			</div>
+		</div>
 		</div>
 	);
 };

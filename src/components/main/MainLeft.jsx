@@ -1,14 +1,14 @@
 import React from "react";
 
-const MainLeft = ({ news }) => {
+const MainLeft = ({ post }) => {
 	return (
 		<div className="main-left">
 			<div className="heading">
 				<span>Published at 12.08.2023</span>
-				<h1>{news.title}</h1>
+				<h1>{post.title}</h1>
 			</div>
 			<div>
-				<p>{news.paragraph}</p>
+				<p>{post.paragraph}</p>
 			</div>
 		</div>
 	);

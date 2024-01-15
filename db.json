@@ -44,13 +44,6 @@
         },
         {
             "postId": 1,
-            "id": 7,
-            "image" : "./public/images/vorzakon.jpg",
-            "title": "Olmaota aeroportida “vor v zakone” qo‘lga olindi",
-            "paragraph": "Olmaota aeroportida jinoiy doiralarda Samar nomi bilan tanilgan 53 yoshli qonundagi o‘g‘ri Samarkan Axmetov qo‘lga olindi. Bu haqda “Zakon.kz” xabar berdi.Ma’lum qilinishicha, u shubha uyg‘otmaslik uchun parvoz vaqtida birovning nomiga soxta hujjatlardan foydalangan."
-        },
-        {
-            "postId": 1,
             "id": 8,
             "image" : "./public/images/kazakpassport.jpg",
             "title": "Qozog‘iston fuqaroligini olish qoidalari o‘zgaradi",
