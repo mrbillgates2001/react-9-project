@@ -1,0 +1,77 @@
+{
+    "news": [
+        {
+            "postId": 1,
+            "id": 1,
+            "image" : "./public/images/afgan.jpg",
+            "title": "O‘zbekiston Afg‘onistonga sarmoya kiritishga tayyor — “Tolibon”",
+            "paragraph": "O‘zbekiston, Turkiya, Rossiya, Eron va Qozog‘iston Afg‘onistonga sarmoya kiritishga tayyor. Bu haqda “Tolibon” matbuot kotibi Zabihulloh Mujohid ToloNews’ga ma’lum qildi."
+        },
+        {
+            "postId": 1,
+            "id": 2,
+            "image" : "./public/images/futbol.jpg",
+            "title": "OFK O‘zbekiston futbol assotsiatsiyasiga qarshi intizomiy ish ochdi”",
+            "paragraph": "“OFK Suriyaga qarshi kechgan o‘yinda Osiyo Kubogiga hech qanday aloqasi bo‘lmagan reklama kompaniyasi aks etgan liboslarda tribunalarda o‘tirgan O‘zbekiston terma jamoasi muxlislari sababli O‘FAga qarshi intizomiy ish ochdi. Aslida hayratlanarli joyi yo‘q. O‘zbekistonda doim o‘zganing intellektual huquqiga ehtiyotsizlik bilan munosabatda bo‘lishadi."
+        },
+        {
+            "postId": 1,
+            "id": 3,
+            "image" : "./public/images/muzey.jpg",
+            "title": "Namanganda Kamoliddin Rahimov muzeyi ochildi",
+            "paragraph": "Namangan shahridagi 11-sonli bolalar musiqa va sanʼat maktabida O‘zbekiston xalq artisti Kamoliddin Rahimov muzeyi ochildi. Bu haqda “Daryo” muxbiri Azizbek Abduvaliyev xabar bermoqda. Muzeydan hofizning shaxsiy buyumlari, sozlari, foto va video manbalar, qo‘shiqlaridan iborat disklar, hayoti va ijodiga bag‘ishlangan kitoblar, gazeta va jurnallar o‘rin oldi."
+        },
+        {
+            "postId": 1,
+            "id": 4,
+            "image" : "./public/images/qotil.jpg",
+            "title": "O‘zbekistonda 12 yildan beri yashirinib yurgan qozog‘istonlik qotil ushlandi",
+            "paragraph": "Ma’lum qilinishicha, ikki davlat huquq-tartibot idoralari Namangan viloyatining Uchqo‘rg‘on tumanida qo‘shma operatsiyani muvaffaqiyatli o‘tkazgan. Natijada qidiruvda bo‘lgan shaxs qo‘lga olingan. U o‘n ikki yil davomida qochib yurgan. Qo‘lga olingan shaxs vakolatli organlarga topshiriladi (jinoyat ishini ko‘rib chiqish va sud qarorini qabul qilish uchun)."
+        },
+        {
+            "postId": 1,
+            "id": 5,
+            "image" : "./public/images/qor.jpg",
+            "title": "O‘zbekistonda havo harorati soviy boshladi. Ayrim hududlarda qor va yomg‘ir yog‘moqda",
+            "paragraph": "Bugun, 14-yanvar kuni Navoiy viloyatining Zarafshon shahri va Qoraqalpog‘iston Ellikqalʼa tumanida qor yog‘di. Shu bilan birga, Toshkent shahrida ham (soat 22:20 holatiga) yomg‘ir yog‘moqda."
+        },
+        {
+            "postId": 1,
+            "id": 6,
+            "image" : "./public/images/vorzakon.jpg",
+            "title": "Olmaota aeroportida “vor v zakone” qo‘lga olindi",
+            "paragraph": "Olmaota aeroportida jinoiy doiralarda Samar nomi bilan tanilgan 53 yoshli qonundagi o‘g‘ri Samarkan Axmetov qo‘lga olindi. Bu haqda “Zakon.kz” xabar berdi.Ma’lum qilinishicha, u shubha uyg‘otmaslik uchun parvoz vaqtida birovning nomiga soxta hujjatlardan foydalangan."
+        },
+        {
+            "postId": 1,
+            "id": 7,
+            "image" : "./public/images/vorzakon.jpg",
+            "title": "Olmaota aeroportida “vor v zakone” qo‘lga olindi",
+            "paragraph": "Olmaota aeroportida jinoiy doiralarda Samar nomi bilan tanilgan 53 yoshli qonundagi o‘g‘ri Samarkan Axmetov qo‘lga olindi. Bu haqda “Zakon.kz” xabar berdi.Ma’lum qilinishicha, u shubha uyg‘otmaslik uchun parvoz vaqtida birovning nomiga soxta hujjatlardan foydalangan."
+        },
+        {
+            "postId": 1,
+            "id": 8,
+            "image" : "./public/images/kazakpassport.jpg",
+            "title": "Qozog‘iston fuqaroligini olish qoidalari o‘zgaradi",
+            "paragraph": "Qozog‘iston fuqaroligini olishni xohlovchi xorijliklar hujjatlarni topshirishda yangi guvohnoma taqdim etishi kerak bo‘ladi. Bu haqda Tengrinews xabar berdi. Ichki ishlar vazirining “Ochiq yuridik shaxslar” portalida e’lon qilingan Qozog‘iston Respublikasi fuqaroligiga qabul qilish masalalari bo‘yicha buyrug‘iga tegishli o‘zgartirishlar kiritildi."
+        },
+        {
+            "postId": 1,
+            "id": 9,
+            "image" : "./public/images/benzema.jpg",
+            "title": "Karim Benzema “Al-Ittihod”ning o‘quv-yig‘in mashg‘ulotlaridan chetlatildi",
+            "paragraph": "Fransiyalik futbolchi Karim Benzema “Al-Ittihod” mashg‘ulotlaridan chetlatildi.Saudiya klubi bosh murabbiyi Marselo Galyardo bu haqida qaror qabul qildi. Kichik ta’tildan so‘ng futbolchilar juma kuni Jiddada joylashgan klub bazasida yig‘ilishi kerak edi. Biroq, Benzema bazaga bormadi va shu tariqa bugun start oladigan Dubaydagi yig‘inda ishtirok etmaydigan bo‘ldi. "
+        },
+        {
+            "postId": 1,
+            "id": 10,
+            "image" : "./public/images/afrikabanan.jpg",
+            "title": "O‘zbek tilidagi afrikalik so‘zlar: ularning rang-ro‘yi qanday?",
+            "paragraph": "Afrikalik deganda ko‘z oldimizga qora tanli kishi keladi. Bu qit’a vakillarini oson tanish, ajratish mumkin. Biroq so‘z dunyosida bunday emas. O‘zbekchada Afrika tillaridan kelgan bir nechta so‘z bor. Ularning ba’zilari o‘zbekchaga singib, moslashib ketgan, o‘zimizning qorako‘z so‘zlarga aylangan. “Daryo” kolumnisti Orif Tolib bugun ana shunday afrikalik so‘zlarni sharhlaydi."
+        }
+    
+    
+    ]
+    
+}

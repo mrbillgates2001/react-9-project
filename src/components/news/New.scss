@@ -1,0 +1,12 @@
+.news-cards {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 16px;
+}
+
+.news-card {
+	width: 296px;
+	height: 534px;
+	flex-shrink: 0;
+    border: 1px solid red;
+}
